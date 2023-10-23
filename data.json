@@ -1,10 +1,16 @@
 [
    {
+      "title":"Tearmoon Empire",
+      "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/Tearmoon-Empire-v10.jpg?w=500&ssl=1",
+      "id": 128337,
+      "path":"Tearmoon-Empire.json"
+    },
+   {
       "title":"Reincarnated As A Sword",
       "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/9/95/LN_Vol_13_EN.jpg/revision/latest?cb=20230430132929",
       "id": 99891,
       "path":"Reincarnated-as-a-sword.json"
-   }
+   },
   {
     "title":"In Another World With My Smartphone",
     "cover":"https://static.wikia.nocookie.net/isekai/images/2/21/In_Another_World_With_My_Smartphone_LN_27.webp/revision/latest?cb=20230905171620",
