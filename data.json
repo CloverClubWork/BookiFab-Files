@@ -1,5 +1,23 @@
 [
    {
+      "title":"Date A Live: Encore",
+      "cover":"https://static.wikia.nocookie.net/date-a-live/images/6/62/DAL_vE10_cov.jpg/revision/latest?cb=20200730173116",
+      "id": 70921,
+      "path":"date-a-live-encore.json"
+    },
+   {
+      "title":"Date A Bullet",
+      "cover":"https://static.wikia.nocookie.net/date-a-live/images/6/60/Date_A_Bullet_Volume_8_Cover.jpg/revision/latest?cb=20211227071219",
+      "id": 105347,
+      "path":"Date_A_Bullet.json"
+    },
+   {
+      "title":"Date A Live",
+      "cover":"https://static.wikia.nocookie.net/date-a-live/images/3/3c/DAL_v9_Cover.jpg/revision/latest?cb=20141019103110",
+      "id": 37523,
+      "path":"date-a-live.json"
+    },
+   {
       "title":"VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
       "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/VTuber-Legend-How-I-Went-Viral-after-Forgetting-to-Turn-Off-My-Stream-v06.jpg?w=500&ssl=1",
       "id": 138718,
