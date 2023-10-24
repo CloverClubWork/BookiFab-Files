@@ -1,5 +1,11 @@
 [
    {
+      "title":"My Days With My Step-sister",
+      "cover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/b/b3/V1_01.png/revision/latest?cb=20210223104015",
+      "id": 133352,
+      "path":"gemai-seikatsu.json"
+    },
+   {
       "title":"The Eminence in Shadow",
       "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/d/d8/Cover-LN-V4-EN.jpg/revision/latest?cb=20221113151706",
       "id": 115922,
@@ -61,7 +67,7 @@
    },
   {
     "title":"In Another World With My Smartphone",
-    "cover":"https://static.wikia.nocookie.net/isekai/images/2/21/In_Another_World_With_My_Smartphone_LN_27.webp/revision/latest?cb=20230905171620",
+    "cover":"https://static.wikia.nocookie.net/isekai-smartphone/images/1/1c/IsesumaLNV28.jpg/revision/latest?cb=20230425201247",
     "id": 88467,
     "path":"In_Another_World_With_My_Smartphone.json"
   },
