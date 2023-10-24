@@ -1,7 +1,7 @@
 # BookiFab-Files
 Download your favorite light novels in epub/pdf file format for free.
 
-![GitHub all releases](https://img.shields.io/github/downloads/CloverClubWork/BookiFab-Files/total?style=for-the-badge&label=Downloads%20v1.0.0-beta&color=Violet&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2FCloverClubWork%2FBookiFab-Files%2Freleases%2Fdownload%2Fv1.0.0-beta%2FShosetsu-v1.0.0-beta.apk)
+![GitHub all releases](https://img.shields.io/github/downloads/CloverClubWork/BookiFab-Files/total?style=for-the-badge&logo=android&logoColor=%23fff&color=limegreen&cacheSeconds=1500&link=https%3A%2F%2Fgithub.com%2FCloverClubWork%2FBookiFab-Files%2Freleases&link=https%3A%2F%2Fgithub.com%2FCloverClubWork%2FBookiFab-Files%2Freleases%2Fdownload%2Fv1.0.0-beta%2FShosetsu-v1.0.0-beta.apk)
 
 # Screenshots
 |Image 1|Image 2|Image 3|Image 4|
@@ -20,7 +20,7 @@ Also support two download options which direct download using DownloadManager. I
 - [x] Works on all android devices
 - [x] Search novel with ease
 
-> Download [Shōsetsu v1.0.0-beta](https://github.com/CloverClubWork/BookiFab-Files/releases/download/v1.0.0-beta/Shosetsu-v1.0.0-beta.apk)
+> Download [V1.0.0-beta](https://github.com/CloverClubWork/BookiFab-Files/releases/download/v1.0.0-beta/Shosetsu-v1.0.0-beta.apk)
 
 Enjoy using our service and report to us if there's any problems.
 
