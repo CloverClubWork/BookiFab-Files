@@ -15,6 +15,8 @@ Also support two download options which direct download using DownloadManager. I
 - [x] Works on all android devices
 - [x] Search novel with ease
 
+> Download [Shōsetsu v1.0.0-beta](https://github.com/CloverClubWork/BookiFab-Files/releases/download/v1.0.0-beta/Shosetsu-v1.0.0-beta.apk)
+
 Enjoy using our service and report to us if there's any problems.
 
 If you like this project, please consider on supporting us to maintain this project. Thank you very much
