@@ -1,5 +1,11 @@
 [
    {
+    "title":"Re:Zero Ex",
+    "cover":"https://static.wikia.nocookie.net/rezero/images/3/31/Re_Zero_Ex_Volume_5_Cover.png/revision/latest?cb=20211217222320",
+    "id": 95243,
+    "path":"re-zero-ex.json"
+  },
+   {
     "title":"Re:Zero - Starting Life in Another World",
     "cover":"https://static.wikia.nocookie.net/rezero/images/9/99/Re_Zero_Volume_23_Cover.png/revision/latest?cb=20211218184623",
     "id": 74697,
