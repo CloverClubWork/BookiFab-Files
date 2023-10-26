@@ -1,4 +1,10 @@
 [
+  {
+    "title":"Haibara's Teenage New Game+",
+    "cover":"htts://cloverclubwork.github.io/BookiFab-Files/images/Img_100_0-book_reader_ReadEra.png",
+    "id": 152588,
+    "path":"Haibaras-Teenage-New-Game.json"
+  },
    {
       "title":"Only I Know the Ghoul Saved the World",
       "cover":"https://i1.wp.com/litter.catbox.moe/1is3xw.jpg?ssl=1",
@@ -124,12 +130,6 @@
     "cover":"https://static.wikia.nocookie.net/king-propose/images/5/5c/Volume_03.png/revision/latest?cb=20220916174203",
     "id": 140176,
     "path":"kings-proposal.json"
-  },
-  {
-    "title":"Haibara's Teenage New Game+",
-    "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/Haibaras-Teenage-New-Game-Volume-04.jpg?w=500&ssl=1",
-    "id": 152588,
-    "path":"Haibaras-Teenage-New-Game.json"
   },
   {
     "title":"The Angel Next Door Spoils Me Rotten",
