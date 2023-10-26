@@ -1,7 +1,7 @@
 # BookiFab-Files
 Download your favorite light novels in epub/pdf file format for free.
 
-![GitHub all releases](https://img.shields.io/github/downloads/CloverClubWork/BookiFab-Files/total?style=for-the-badge&logo=android&logoColor=%23fff&color=limegreen&cacheSeconds=1500&link=https%3A%2F%2Fgithub.com%2FCloverClubWork%2FBookiFab-Files%2Freleases&link=https%3A%2F%2Fgithub.com%2FCloverClubWork%2FBookiFab-Files%2Freleases%2Fdownload%2Fv1.0.0-beta%2FShosetsu-v1.0.0-beta.apk)
+![GitHub all releases](https://img.shields.io/github/downloads/CloverClubWork/BookiFab-Files/total?style=for-the-badge&logo=android&label=v1.0.1-beta&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2FCloverClubWork%2FBookiFab-Files%2Freleases%2Ftag%2Fv1.0.1-beta)
 
 # Screenshots
 |Image 1|Image 2|Image 3|Image 4|
