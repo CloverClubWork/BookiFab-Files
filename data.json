@@ -1,5 +1,11 @@
 [
   {
+    "title":"Wandering Witch: The Journey of Elaina",
+    "cover":"https://static.wikia.nocookie.net/majo-no-tabitabi/images/d/d5/Light_Novel_Volume_11_EN.jpg/revision/latest?cb=20230517041743",
+    "id": 102330,
+    "path":"majo-no-tabitabi.json"
+  },
+  {
     "title":"Haibara's Teenage New Game+",
     "cover":"https://cloverclubwork.github.io/BookiFab-Files/images/Img_100_0-book_reader_ReadEra.png",
     "id": 152588,
