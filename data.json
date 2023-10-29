@@ -1,5 +1,11 @@
 [
   {
+    "title":"Classroom Of The Elite",
+    "cover":"https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/0/0a/The_First_Phone_Call_cover.jpg/revision/latest?cb=20200201175707",
+    "id": 89357,
+    "path":"classroom-of-the-elite.json"
+  },
+  {
     "title":"That Time I Got Reincarnated As A Slime",
     "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/6/65/Light_Novel_Volume_16_JP.jpg/revision/latest?cb=20210612163957",
     "id": 87610,
