@@ -1,53 +1,70 @@
-@import url('https://fonts.googleapis.com/css2?family=Genos&family=Montserrat&display=swap');
-:root{
-  --genos: 'Genos', sans-serif;
-  --montserrat: 'Montserrat', sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Genos&family=Montserrat&display=swap");
+:root {
+    --genos: "Genos", sans-serif;
+    --montserrat: "Montserrat", sans-serif;
 }
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: var(--montserrat);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--montserrat);
 }
-body{
-  margin: 0;
-  max-width: 100%;
-  height: 100%;
-  background-color: ghostwhite;
+body {
+    margin: 0;
+    max-width: 100%;
+    height: 100%;
+    background-color: ghostwhite;
 }
-#title-page{
-  font-family: var(--genos);
-  font-size: 20pt;
+#title-page {
+    font-family: var(--genos);
+    font-size: 20pt;
 }
-.page-container h1{
-  font-size: 20pt;
-  font-family: var(--genos);
-  font-weight: 800;
+.page-container h1 {
+    font-size: 20pt;
+    font-family: var(--genos);
+    font-weight: 800;
 }
-.new-page{
-  max-width: 100%;
-  height: auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  grid-gap: 10px;
+.new-page {
+    max-width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-gap: 10px;
 }
-.item-container{
-  width: 150px;
-  height: auto;
-  overflow: hidden;
+.item-container {
+    width: 150px;
+    height: auto;
+    overflow: hidden;
 }
-.item-container img{
-  width: inherit;
-  height: 200px;
+.item-container img {
+    width: inherit;
+    height: 200px;
 }
-.item-container p{
-  font-size: 12pt;
-  font-weight: 600;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  -webkit-line-clamp: 2;
+.item-container p {
+    font-size: 12pt;
+    font-weight: 600;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
 }
-/*.item-container:nth-child(n+11){
-  display: none;
-}*/
+/*Loader*/
+.loader {
+    border: 8px solid #f3f3f3; /* Light gray border */
+    border-top: 8px solid #3498db; /* Blue border on top */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite; /* Rotate animation */
+    margin: auto; /* Center the loader */
+    margin-top: 10vh; /* Adjust vertical position */
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
