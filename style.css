@@ -48,6 +48,6 @@ body{
   overflow: hidden;
   -webkit-line-clamp: 2;
 }
-.item-container:nth-child(n+11){
+/*.item-container:nth-child(n+11){
   display: none;
-}
+}*/
