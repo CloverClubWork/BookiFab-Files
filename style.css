@@ -36,8 +36,8 @@ body{
   overflow: hidden;
 }
 .item-container img{
-  max-width: 100%;
-  height: 210px;
+  width: inherit;
+  height: 200px;
 }
 .item-container p{
   font-size: 12pt;
