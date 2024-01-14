@@ -39,5 +39,6 @@ body{
   height: 210px;
 }
 .item-container p{
-  font-size: 13pt;
+  font-size: 12pt;
+  font-weight: 600;
 }
