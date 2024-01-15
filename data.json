@@ -1,6 +1,6 @@
 [
   {
-    "id": 004,
+    "id": "004",
     "title":"In Another World With My Smartphone",
     "cover":"https://static.wikia.nocookie.net/isekai-smartphone/images/1/1c/IsesumaLNV28.jpg/revision/latest?cb=20230425201247",
     "status":"Releasing",
@@ -9,7 +9,7 @@
     "link":"https://clk.asia/smartphone-isekai"
   },
   {
-    "id": 003,
+    "id": "003",
     "title":"Haibara's Teenage New Game+",
     "cover":"images/haibara-s-teenage-new-game-volume-5.jpg",
     "status":"Releasing",
@@ -18,7 +18,7 @@
     "link":"https://clk.asia/Haibaras-Teenage-New-Game"
   },
   {
-    "id": 002,
+    "id": "002",
     "title":"Death March to Parallel World Rhapsody",
     "cover":"https://static.wikia.nocookie.net/deathmarch/images/2/21/DM_Vol19-Cover.jpg/revision/latest/scale-to-width/360?cb=20200223193322",
     "status":"Releasing",
@@ -27,7 +27,7 @@
     "link":"https://clk.asia/Death-march-to-parallel-world"
   },
   {
-    "id": 001,
+    "id": "001",
     "title":"86: Eighty Six",
     "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/9/92/V12_Cover_JP.jpg/revision/latest/scale-to-width/360?cb=20230122012112",
     "status":"Releasing",
