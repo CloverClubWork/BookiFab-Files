@@ -1,170 +1,38 @@
 [
   {
-    "title":"Classroom Of The Elite",
-    "cover":"images/cote_volume_1.jpg",
-    "id": 89357,
-    "path":"classroom-of-the-elite.json"
+    "id": 0,
+    "title":"",
+    "cover":"",
+    "status":"",
+    "genre":"",
+    "synopsis":"",
+    "link":""
   },
   {
-    "title":"That Time I Got Reincarnated As A Slime",
-    "cover":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/6/65/Light_Novel_Volume_16_JP.jpg/revision/latest?cb=20210612163957",
-    "id": 87610,
-    "path":"tensei-shitara-slime-datta-ken.json"
+    "id": 0,
+    "title":"",
+    "cover":"",
+    "status":"",
+    "genre":"",
+    "synopsis":"",
+    "link":""
   },
   {
-    "title":"Death March To Parallel World Rhapsody",
-    "cover":"https://static.wikia.nocookie.net/deathmarch/images/2/25/DMv19-00_EN.png/revision/latest?cb=20230711162436",
-    "id": 83019,
-    "path":"death-march-to-parallel-world-rhapsody.json"
+    "id": 0,
+    "title":"",
+    "cover":"",
+    "status":"",
+    "genre":"",
+    "synopsis":"",
+    "link":""
   },
   {
-    "title":"Mushoku Tensei: Jobless Reincarnation",
-    "cover":"https://static.wikia.nocookie.net/mushokutensei/images/4/4b/Cover-MT-LN-V25-EN.png/revision/latest?cb=20231021000917",
-    "id": 70261,
-    "path":"mushoku-tensei.json"
-  },
-  {
-    "title":"Wandering Witch: The Journey of Elaina",
-    "cover":"https://static.wikia.nocookie.net/majo-no-tabitabi/images/d/d5/Light_Novel_Volume_11_EN.jpg/revision/latest?cb=20230517041743",
-    "id": 102330,
-    "path":"majo-no-tabitabi.json"
-  },
-  {
-    "title":"Haibara's Teenage New Game+",
-    "cover":"https://cloverclubwork.github.io/BookiFab-Files/images/Img_100_0-book_reader_ReadEra.png",
-    "id": 152588,
-    "path":"Haibaras-Teenage-New-Game.json"
-  },
-   {
-      "title":"Only I Know the Ghoul Saved the World",
-      "cover":"https://i1.wp.com/litter.catbox.moe/1is3xw.jpg?ssl=1",
-      "id": 146956,
-      "path":"only-i-know-the-ghoul-saved-the-world.json"
-    },
-   {
-    "title":"Re:Zero Ex",
-    "cover":"https://static.wikia.nocookie.net/rezero/images/3/31/Re_Zero_Ex_Volume_5_Cover.png/revision/latest?cb=20211217222320",
-    "id": 95243,
-    "path":"re-zero-ex.json"
-  },
-   {
-    "title":"Re:Zero - Starting Life in Another World",
-    "cover":"https://static.wikia.nocookie.net/rezero/images/9/99/Re_Zero_Volume_23_Cover.png/revision/latest?cb=20211218184623",
-    "id": 74697,
-    "path":"re-zero.json"
-  },
-   {
-    "title":"Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!",
-    "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/Taking-My-Reincarnation-One-Step-at-a-Time-No-One-Told-Me-There-Would-Be-Monsters-Volume2.jpg?w=500&ssl=1",
-    "id": 130978,
-    "path":"Taking-My-Reincarnation-One-Step-at-a-Time-No-One-Told-Me-There-Would-Be-Monsters.json"
-  },
-   {
-    "title":"Alya Sometimes Hides Her Feelings in Russian",
-    "cover":"https://images.yenpress.com/imgs/9781975367596.jpg?w=408&h=612&type=books&s=19e72c535c508340c7361b0b5858c5cf",
-    "id": 134341,
-    "path":"Alya-Sometimes-Hides-Her-Feelings-in-Russian.json"
-  },
-   {
-      "title":"Days With My Step-sister",
-      "cover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/b/b3/V1_01.png/revision/latest?cb=20210223104015",
-      "id": 133352,
-      "path":"gemai-seikatsu.json"
-    },
-   {
-      "title":"The Eminence in Shadow",
-      "cover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/d/d8/Cover-LN-V4-EN.jpg/revision/latest?cb=20221113151706",
-      "id": 115922,
-      "path":"the-eminence-in-shadow.json"
-    },
-   {
-      "title":"The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
-      "cover":"https://static.wikia.nocookie.net/the-world-finest-assassin/images/4/4c/Light_Novel_Volume_7_Cover.jpg/revision/latest?cb=20220608134724",
-      "id": 120548,
-      "path":"the-world-finest-assassin.json"
-    },
-   {
-      "title":"Date A Live: Encore",
-      "cover":"https://static.wikia.nocookie.net/date-a-live/images/6/62/DAL_vE10_cov.jpg/revision/latest?cb=20200730173116",
-      "id": 70921,
-      "path":"date-a-live-encore.json"
-    },
-   {
-      "title":"Date A Bullet",
-      "cover":"https://static.wikia.nocookie.net/date-a-live/images/6/60/Date_A_Bullet_Volume_8_Cover.jpg/revision/latest?cb=20211227071219",
-      "id": 105347,
-      "path":"Date_A_Bullet.json"
-    },
-   {
-      "title":"Date A Live",
-      "cover":"https://static.wikia.nocookie.net/date-a-live/images/3/3c/DAL_v9_Cover.jpg/revision/latest?cb=20141019103110",
-      "id": 37523,
-      "path":"date-a-live.json"
-    },
-   {
-      "title":"VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
-      "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/VTuber-Legend-How-I-Went-Viral-after-Forgetting-to-Turn-Off-My-Stream-v06.jpg?w=500&ssl=1",
-      "id": 138718,
-      "path":"VTuber-Legend-How-I-Went-Viral-after-Forgetting-to-Turn-Off-My-Stream.json"
-    },
-   {
-      "title":"Spy Classroom",
-      "cover":"https://static.wikia.nocookie.net/spy-room/images/e/e8/LightNovelVol6.jpg/revision/latest?cb=20210907143416",
-      "id": 125340,
-      "path":"spy-room.json"
-    },
-   {
-      "title":"The Detective Is Already Dead",
-      "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/The-Detective-Is-Already-Dead-v06.jpg?w=500&ssl=1",
-      "id": 128721,
-      "path":"The-Detective-Is-Already-Dead.json"
-    },
-   {
-      "title":"Tearmoon Empire",
-      "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/Tearmoon-Empire-v10.jpg?w=500&ssl=1",
-      "id": 128337,
-      "path":"Tearmoon-Empire.json"
-    },
-   {
-      "title":"Reincarnated As A Sword",
-      "cover":"https://static.wikia.nocookie.net/i-was-a-sword-when-i-reincarnated/images/9/95/LN_Vol_13_EN.jpg/revision/latest?cb=20230430132929",
-      "id": 99891,
-      "path":"Reincarnated-as-a-sword.json"
-   },
-  {
-    "title":"In Another World With My Smartphone",
-    "cover":"https://static.wikia.nocookie.net/isekai-smartphone/images/1/1c/IsesumaLNV28.jpg/revision/latest?cb=20230425201247",
-    "id": 88467,
-    "path":"In_Another_World_With_My_Smartphone.json"
-  },
-  {
-    "title":"The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
-    "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/The-Magical-Revolution-of-the-Reincarnated-Princess-and-the-Genius-Young-Lady-v05.jpg?w=500&ssl=1",
-    "id": 138744,
-    "path":"The-Magical-Revolution-of-the-Reincarnated-Princess-and-the-Genius-Young-Lady.json"
-  },
-  {
-    "title":"The Vexations of a Shut-In Vampire Princess",
-    "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/09/The-Vexations-of-a-Shut-In-Vampire-Princess-vol-5.jpg?w=500&ssl=1",
-    "id": 138763,
-    "path":"The-Vexations-of-a-Shut-In-Vampire-Princess.json"
-  },
-  {
-    "title":"I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
-    "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/09/I-May-Be-a-Guild-Receptionist-but-Ill-Solo-Any-Boss-to-Clock-Out-on-Time-v01.jpg?w=500&ssl=1",
-    "id": 138202,
-    "path":"I-May-Be-a-Guild-Receptionist-but-Ill-Solo-Any-Boss-to-Clock-Out-on-Time.json"
-  },
-  {
-    "title":"King's Proposal",
-    "cover":"https://static.wikia.nocookie.net/king-propose/images/5/5c/Volume_03.png/revision/latest?cb=20220916174203",
-    "id": 140176,
-    "path":"kings-proposal.json"
-  },
-  {
-    "title":"The Angel Next Door Spoils Me Rotten",
-    "cover":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/09/The-Angel-Next-Door-Spoils-Me-Rotten-v05.5.jpg?w=500&ssl=1",
-    "id": 123649,
-    "path":"The-Angel-Next-Door-Spoils-Me-Rotten.json"
+    "id": 086,
+    "title":"86: Eighty Six",
+    "cover":"https://static.wikia.nocookie.net/86-eighty-six/images/9/92/V12_Cover_JP.jpg/revision/latest/scale-to-width/360?cb=20230122012112",
+    "status":"Releasing",
+    "publisher":"Yen Press",
+    "synopsis":"The Republic of San Magnolia has long been under attack from the neighboring Giadian Empire's army of unmanned drones known as the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties-or at least, that's what the government claims. In truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the "nonexistent\" Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the \"unmanned\" weapons into battle...",
+    "link":""
   }
 ]
