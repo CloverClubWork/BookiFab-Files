@@ -1,4 +1,4 @@
-$(document).ready(() => {
+/*$(document).ready(() => {
     $.ajax({
         url: "data.json",
         method: "GET",
@@ -41,10 +41,37 @@ $(document).ready(() => {
                 currentPage++;
                 $('.loader').show();
                 renderData(paginateData(data, currentPage));
-            });*/
+            });
         },
         error: function (error) {
             console.error("Error fetching JSON data:", error);
+        }
+    });
+});*/
+$(document).ready(function () {
+    $.ajax({
+        url: "data.json",
+        method: "GET",
+        success: function (data) {
+            const results = data;
+            $('.loader').hide();
+            results.forEach(items => {
+                const item =
+                    `
+              <div class='item-container'>
+                <img id='cover' src='` +
+                    items.cover +
+                    `' loading='lazy'/>
+                <p id='title'>` +
+                    items.title +
+                    `</p>
+              </div>
+            `;
+                $(".new-page").append(item);
+            });
+        },
+        error: function (error) {
+            console.log(error);
         }
     });
 });
