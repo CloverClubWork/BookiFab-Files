@@ -48,30 +48,4 @@
         }
     });
 });*/
-$(document).ready(function () {
-    $.ajax({
-        url: "data.json",
-        method: "GET",
-        success: function (data) {
-            const results = data;
-            $('.loader').hide();
-            results.forEach(items => {
-                const item =
-                    `
-              <div class='item-container'>
-                <img id='cover' src='` +
-                    items.cover +
-                    `' loading='lazy'/>
-                <p id='title'>` +
-                    items.title +
-                    `</p>
-              </div>
-            `;
-                $(".new-page").append(item);
-            });
-        },
-        error: function (error) {
-            console.log(error);
-        }
-    });
-});
+
