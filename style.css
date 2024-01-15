@@ -36,9 +36,14 @@ body {
     height: auto;
     overflow: hidden;
 }
-.item-container img {
+.item-container .hover {
     width: inherit;
     height: 200px;
+    overflow: hidden;
+}
+.hover img{
+  width: inherit;
+  height: inherit;
 }
 .item-container p {
     font-size: 12pt;
