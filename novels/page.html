@@ -57,14 +57,13 @@
         </nav>
 
         <div class="container-fluid main-page">
-            <div class="page-container container-fluid">
-                <h1>New Updated</h1>
-                <div class="loader"></div>
-                <div class="new-page"></div>
-                <!-- <div class="container d-flex justify-content-center">
-                  <button class="btn btn-primary" type="submit" id="loadMoreBtn">Load More</button>
-                </div> -->
+            <div class="page">
+                <div class="cover-con">
+                    <img src="" id="cover-page" alt="" />
+                </div>
+                <h1 id="title-page"></h1>
             </div>
+
             <footer
                 class="container-fluid d-flex flex-column justify-content-center p-0 mt-5"
             >
@@ -83,34 +82,23 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
         <script type="text/javascript" charset="utf-8">
             $(document).ready(function () {
-                fetch('data.json')
-                .then(response => {
-                  if(!response.ok){
-                    throw new Error('Failed to fetch data');
-                  }
-                  return response.json()
-                })
-                .then(data => {
-                  const results = data;
-                        $(".loader").hide();
-                        results.forEach(items => {
-                            const item =
-                                `
-              <div class='item-container'>
-                <div class='hover'><img id='cover' src='` +
-                                items.cover +
-                                `' loading='lazy'/></div>
-                <p id='title'>` +
-                                items.title +
-                                `</p>
-              </div>
-            `;
-                            $(".new-page").append(item);
-                        });
-                })
-                .catch(error => {
-                  console.log(error)
-                })
+                const apiUrl = "/data.json";
+                let query = {
+                    id: "id"
+                };
+                $.ajax({
+                    url: apiUrl,
+                    data: query,
+                    type: "GET",
+                    success: function (data) {
+                        // Handle the retrieved data here
+                        console.log(data);
+                    },
+                    error: function (error) {
+                        // Handle errors
+                        console.error("Error:", error);
+                    }
+                });
             });
         </script>
     </body>
