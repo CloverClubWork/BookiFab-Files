@@ -83,20 +83,22 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
         <script type="text/javascript" charset="utf-8">
             $(document).ready(function () {
-                fetch('data.json')
-                .then(response => {
-                  if(!response.ok){
-                    throw new Error('Failed to fetch data');
-                  }
-                  return response.json()
-                })
-                .then(data => {
-                  const results = data;
+                fetch("data.json")
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error("Failed to fetch data");
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        const results = data;
                         $(".loader").hide();
                         results.forEach(items => {
                             const item =
                                 `
-              <div class='item-container' data-src='page.html?id='`+items.id+`>
+              <div class='item-container' data-src='page.html?id='` +
+                                items.id +
+                                `>
                 <div class='hover'><img id='cover' src='` +
                                 items.cover +
                                 `' loading='lazy'/></div>
@@ -107,15 +109,14 @@
             `;
                             $(".new-page").append(item);
                         });
-                })
-                .catch(error => {
-                  console.log(error)
-                })
-                
-                $('.new-page').on('click', '.item-container', function(){
-                  window.location.href = $(this).attr('data-src');
-                })
-                
+                    })
+                    .catch(error => {
+                        console.log(error);
+                    });
+
+                $(".new-page").on("click", ".item-container", function () {
+                    window.location.href = $(this).attr("data-src");
+                });
             });
         </script>
     </body>
