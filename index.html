@@ -96,7 +96,7 @@
                         results.forEach(items => {
                             const item =
                                 `
-              <div class='item-container'>
+              <div class='item-container' data-src='page.html?id='`+items.id+`>
                 <div class='hover'><img id='cover' src='` +
                                 items.cover +
                                 `' loading='lazy'/></div>
@@ -111,6 +111,11 @@
                 .catch(error => {
                   console.log(error)
                 })
+                
+                $('.new-page').on('click', '.item-container', function(){
+                  window.location.href = $(this).attr('data-src');
+                })
+                
             });
         </script>
     </body>
